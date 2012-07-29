@@ -71,7 +71,9 @@ You can find this pattern everywhere. A particularly comic example is Oracle vs.
 
 At one point, Oracle hatched an interesting plan of attack. Siebel had no billboard space in front of its office. So Oracle rented a huge truck and parked it in front of Siebel HQ. They put up all sorts of ads on it that made fun of Siebel in attempt lure Siebel employees away. But then Oracle acquired Siebel in 2005. Presumably they got rid of the truck at that point.
 
-The ad wars aren’t just throwaway anecdotes. They tell us a lot about how companies were thinking about themselves and the future. In the ‘90s, a company called Informix started a Billboard war with Oracle. It put up a sign near Oracle HQ off the 101 that said: “You just passed Redwood Shores. So did we.” Another billboard featured a “Dinosaur Crossing” sign superimposed in front of the Oracle Towers. ![][9]![][10]
+The ad wars aren’t just throwaway anecdotes. They tell us a lot about how companies were thinking about themselves and the future. In the ‘90s, a company called Informix started a Billboard war with Oracle. It put up a sign near Oracle HQ off the 101 that said: “You just passed Redwood Shores. So did we.” Another billboard featured a “Dinosaur Crossing” sign superimposed in front of the Oracle Towers. 
+
+![][9]![][10]
 
    [9]: http://media.tumblr.com/tumblr_m46sc0FxTp1qbb0b4.jpg
    [10]: http://media.tumblr.com/tumblr_m46ser07T01qbb0b4.jpg
@@ -84,7 +86,9 @@ The Shakespearean model holds true today. Consider the Square card reader. Squar
 
 Then there was a proliferation of copycat readers. PayPal launched one. They shaped it like a triangle. They basically copied the idea of a simple geometric-shaped reader. But they tried to one-up Square; 3 sides, after all, was simpler than 4. 
 
-Before PayPal’s PR people could celebrate their victory, Intuit came out with a competing card reader. It was shaped like a cylinder. Then Kudos came out with its version, which it shaped like a semicircle. Maybe someone will release a trapezoid version soon. Maybe then they’ll run out of shapes.[![][11]][12]
+Before PayPal’s PR people could celebrate their victory, Intuit came out with a competing card reader. It was shaped like a cylinder. Then Kudos came out with its version, which it shaped like a semicircle. Maybe someone will release a trapezoid version soon. Maybe then they’ll run out of shapes.
+
+[![][11]][12]
 
    [11]: http://media.tumblr.com/tumblr_m46swzsnBJ1qbb0b4.jpg
    [12]: http://puu.sh/vhIH
@@ -95,7 +99,9 @@ How will this all end? Do you really want to get involved in making a new card r
 
 It’s not just startups that engage in imitative competition. The Microsoft-Google rivalry, while not completely destructive, has a lot of this Shakespearean dynamic behind it. In a way, they were destined to war with each other from day one because they are so alike. Both companies were started by nerds. The top people are obsessed with being the smartest. Bill Gates had an obsession with IQ testing. Larry and Sergey sort of took that to the next level. But Microsoft and Google also started off very differently. Originally they did very different things and had very different products. Microsoft had Office, Explorer, and the Windows operating system. Google had its search engine. What was there to fight about?
 
-Fast-forward 12 years. It’s Microsoft’s Bing vs. Google, and Google’s Chrome vs. Internet Explorer. Microsoft Office now has Google Docs to contend with. Microsoft and Google are now direct competitors across a number of very key products. We can surmise why: each company focused on the internal narrative in which they simply had to take on the other because they couldn’t afford to cede any ground. Microsoft absolutely had to do search. Google simply had to do Docs and Chrome. But is that right? Or did they just fall prey to the imitative dynamic and become obsessed with each other?[![][13]][14]
+Fast-forward 12 years. It’s Microsoft’s Bing vs. Google, and Google’s Chrome vs. Internet Explorer. Microsoft Office now has Google Docs to contend with. Microsoft and Google are now direct competitors across a number of very key products. We can surmise why: each company focused on the internal narrative in which they simply had to take on the other because they couldn’t afford to cede any ground. Microsoft absolutely had to do search. Google simply had to do Docs and Chrome. But is that right? Or did they just fall prey to the imitative dynamic and become obsessed with each other?
+
+[![][13]][14]
 
    [13]: http://media.tumblr.com/tumblr_m46t4fjTGa1qbb0b4.jpg
    [14]: http://i48.tinypic.com/w9dues.jpg

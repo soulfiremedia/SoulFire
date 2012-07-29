@@ -223,70 +223,53 @@ Most terms don’t matter. Economics and control matter; discuss those soon.  A
 
 **A:** Probably 80% of the value add is capital, and 20% is advising. Superangels are very popular right now. Their pitch is that they can help you build your business. You look at their portfolio and its 150-deep. For the average company, how much time or energy can they actually devote? VCs have fewer portfolio companies, but they have the same constraints. They can add value by providing strategic advice, build syndicates for funding, and explain processes that are familiar to them but new to you. But in terms of the mythical model of the hybrid VC-McKinsey consultant helping you build your business, hand-in-hand, no. That doesn’t happen for most portfolio companies. It’s mathematically impossible. VCs who insist they do that for everyone aren’t being honest.
 
+----
   
-><hr size="1"><!--[endif]--><div id="ftn1"> <p class="MsoListParagraphCxSpFirst"> Predictable things that VCs will want to know:<p> 
+Predictable things that VCs will want to know:
 
-1)      Macro
+1. Macro
 
-          a.      Are you a company or just a product/feature?
+    a. Are you a company or just a product/feature?
+    b. Your vision for the company
 
-          b.     Your vision for the company
+2. Your product(s)
 
-2)     Your product(s)
+    a. What it is
+    b. What problem it solves
+    c. Why it is superior
+    d. Why it is not likely to be displaced for some time  
 
-          a.      What it is
+3. Team
 
-          b.     What problem it solves
+    a. This is the ethos part of the presentation – why are you the right people for the task and why should the VC trust you?
+    b. Are you missing anyone?
+    c. How are you recruiting/convince the 20th employee to join?
+    d. What’s your philosophy on compensation?
 
-          c.      Why it is superior
+4. The Business
 
-          d.     Why it is not likely to be displaced for some time  
+    a. Market size, specifically the “addressable” market
+    b. How much of the market are you are going to capture and how
+    c. Competitive analysis/advantages
+    d. Business model
+    e. How will you generate revenue?
+        1. Sales process
+        * Customer acquisition cost
+        * Profitability
+        
+    f. Barriers to entry/exit
 
-3)     Team
+5. The Ask
 
-           a.      This is the ethos part of the presentation – why are you the right people for the task and why should the VC trust you?
+    a. How much do you need and what will you use it for?
+    b. What’s your burn?
+    c. Valuation
 
-           b.     Are you missing anyone?
+6. Funding History/Syndication
 
-           c.      How are you recruiting/convince the 20th employee to join?
-
-           d.     What’s your philosophy on compensation?
-
-4)      The Business
-
-           a.      Market size, specifically the “addressable” market
-
-           b.     How much of the market are you are going to capture and how
-
-           c.      Competitive analysis/advantages
-
-           d.     Business model
-
-           e.      How will you generate revenue?
-
-                       i.     Sales process
-
-                       ii.     Customer acquisition cost
-
-                       iii.     Profitability
-
-            f.       Barriers to entry/exit
-
-5)     The Ask
-
-             a.      How much do you need and what will you use it for?
-
-             b.     What’s your burn?
-
-             c.      Valuation
-
-6)     Funding History/Syndication
-
-            a.      Who else are you talking to? (This is the pathos bit)
-
-            b.     Why do you want to work with this VC?
-
-            c.      What do you want from the VC besides money?
+    a. Who else are you talking to? (This is the pathos bit)
+    b. Why do you want to work with this VC?
+    c. What do you want from the VC besides money?
 
 [![Creative Commons License][23]][24]
 
